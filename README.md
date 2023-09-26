@@ -1,11 +1,8 @@
 Trello_API_Testing
--------------------
 
 Trello API Tests with Postman.
--------------------------------
 
 The features to be tested:
----------------------------
 
 - Create new Board
 - Get all Boards
