@@ -1,0 +1,19 @@
+-Verify if the API returns the expected status code.
+
+-Check if the API returns the expected response format, like JSON or XML.
+
+-Ensure that the response time of the API is within an acceptable range.
+
+-Check if the API request validates and identifies authorized users correctly.
+
+-Verify if the API returns the expected response data for a valid request.
+
+-Ensure that the API handles incorrect input values or missing parameters correctly.
+
+-Check if the API response data follows the same order as the request parameters.
+
+-Verify that the API can handle high traffic by sending multiple requests in a short period.
+
+-Ensure that the API returns appropriate error messages when the server is down or inaccessible.
+
+-Check that the API is properly documented and has complete API documentation available to users.
